@@ -20,6 +20,6 @@ steps:
     location: 'Central India'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/nivedv/ARMPipeline-repo/refs/heads/main/create_web_app/azuredeploy.json'
-    overrideParameters: '-projectName myarmpipeline'
+    overrideParameters: '-projectName nvprjtemp'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
